@@ -58,9 +58,9 @@ public class GamePanel extends JPanel implements Runnable{
         }
     }
 
-    public void update() {
+    /*public void update() {
         player.update();
-    }
+    }*/
 
     public void paintComponent(Graphics graphics) {
         super.paintComponent(graphics);
