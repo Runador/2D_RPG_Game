@@ -7,6 +7,6 @@
 This is the link for the repo ➡️ [2D RPG Game](https://github.com/Runador/Game2d/tree/main)
 ---
 
-### Hopefully I will finish this game in the near future. <br> So, enjoy reading this code! 📖
+### Hopefully, I will finish this game in the near future.
 
 # 🎮
